@@ -2,7 +2,7 @@
 
 I have a 1980s vintage cassette deck in my retro-modern stereo rack. Feel free to read more about my [stereo control hardware device](https://github.com/dgaff/onkyo-control) and learn a bit more about the audio stack. The cassette deck took some work to rehabilitate, and as part of that process, I had to find a service manual with a really good schematic. The images I found online weren't great, so I bought an old printed service manual on ebay from [VintageAudioStore.com](https://VintageAudioStore.com). Check them out if you're looking for old manuals. This repo contains thumbnails to the service manual. Click the thumbnails to get 1200dpi high resolution scans of the images. If you find this helpful, please consider supporting me.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/douggaff)
+<a href="https://www.buymeacoffee.com/douggaff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <img src="IMG_8056.jpeg" alt="stereo rack" width="400px">
 
